@@ -6,7 +6,7 @@
   "author": "JoyTeam",
   "description": "JoyTeam Library with usefull thingth",
   "dependencies": {
-    "com.joyteam.core": "https://github.com/deadbit-dev/com.joyteam.core.git"
+    "com.joyteam.core": "0.0.1"
   },
   "repository": {
     "type": "git",
